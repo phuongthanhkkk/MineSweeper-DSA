@@ -7,7 +7,7 @@ import java.awt.event.ActionListener;
 
 public class StartWindow extends JFrame {
     public StartWindow() {
-        setTitle("Start Game");
+        setTitle("START GAME");
         setSize(350,200);
         setDefaultCloseOperation(EXIT_ON_CLOSE);
 

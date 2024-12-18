@@ -3,15 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/DELL/Downloads/MineSweeper-20241216T052801Z-001/MineSweeper/src/gui/panel/ControlPanel.java</file>
-            <file>file:/C:/Users/DELL/Downloads/MineSweeper-20241216T052801Z-001/MineSweeper/src/logic/Square.java</file>
-            <file>file:/C:/Users/DELL/Downloads/MineSweeper-20241216T052801Z-001/MineSweeper/src/logic/Board.java</file>
-            <file>file:/C:/Users/DELL/Downloads/MineSweeper-20241216T052801Z-001/MineSweeper/src/main/Main.java</file>
-            <file>file:/C:/Users/DELL/Downloads/MineSweeper-20241216T052801Z-001/MineSweeper/src/gui/ICommon.java</file>
-            <file>file:/C:/Users/DELL/Downloads/MineSweeper-20241216T052801Z-001/MineSweeper/src/gui/panel/BoardPanel.java</file>
-            <file>file:/C:/Users/DELL/Downloads/MineSweeper-20241216T052801Z-001/MineSweeper/src/gui/ITrans.java</file>
-            <file>file:/C:/Users/DELL/Downloads/MineSweeper-20241216T052801Z-001/MineSweeper/src/gui/StartWindow.java</file>
-            <file>file:/C:/Users/DELL/Downloads/MineSweeper-20241216T052801Z-001/MineSweeper/src/gui/Gui.java</file>
+            <file>file:/C:/Users/DELL/Desktop/Algorithms%20&amp;%20Data%20Structures_G02_S1_24-25/Project/MineSweeper/src/gui/panel/ControlPanel.java</file>
+            <file>file:/C:/Users/DELL/Desktop/Algorithms%20&amp;%20Data%20Structures_G02_S1_24-25/Project/MineSweeper/src/gui/panel/BoardPanel.java</file>
+            <file>file:/C:/Users/DELL/Desktop/Algorithms%20&amp;%20Data%20Structures_G02_S1_24-25/Project/MineSweeper/src/gui/Gui.java</file>
+            <file>file:/C:/Users/DELL/Desktop/Algorithms%20&amp;%20Data%20Structures_G02_S1_24-25/Project/MineSweeper/src/gui/StartWindow.java</file>
         </group>
     </open-files>
 </project-private>

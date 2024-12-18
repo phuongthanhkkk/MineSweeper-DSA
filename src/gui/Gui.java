@@ -73,7 +73,7 @@ public class Gui extends JFrame implements ICommon, ITrans {
             @Override
             public void windowClosing(WindowEvent e) {
                 int kq = JOptionPane.showConfirmDialog(Gui.this, "Do you want to exit?",
-                        "Notification", JOptionPane.YES_NO_OPTION);
+                        "WARNING", JOptionPane.YES_NO_OPTION);
                 if (kq == JOptionPane.YES_OPTION) {
                     dispose();
                 }
