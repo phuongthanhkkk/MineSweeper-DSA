@@ -6,6 +6,7 @@
 ![image](https://github.com/user-attachments/assets/d577f461-d798-43bb-b022-21346ac39293)
 
 
+
 ## 📖 About The Game
 
 ### 📜 Introduction
@@ -37,9 +38,11 @@ When the game starts, the player is given an R×C rectangular grid of covered sq
 ```Figure D-4 Start Window```
 
 
+
 ![image](https://github.com/user-attachments/assets/99dad0db-d2c8-406e-b462-86940cf50ff4)
 
 ```Figure D-5 Close Window```
+
 
 
 ![image](https://github.com/user-attachments/assets/b749ad42-1e41-42f6-b25a-559c35fe9070)
@@ -47,14 +50,17 @@ When the game starts, the player is given an R×C rectangular grid of covered sq
 ```Figure D-6 Screen player```
 
 
+
 ![image](https://github.com/user-attachments/assets/288e9717-d1ad-4bce-8b6e-d91a9f4c31ce)
 
 ```Figure D-7 Loss screen on easy level```
 
 
+
 ![image](https://github.com/user-attachments/assets/70d0d935-5bce-4dfe-a706-89084bb58c96)
 
 ```Figure D-8 Loss screen on hard level```
+
 
 
 ### 📚 UML Diagram
