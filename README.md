@@ -66,3 +66,8 @@ When the game starts, the player is given an R×C rectangular grid of covered sq
 ### 📚 UML Diagram
 ![MineSweeper](https://github.com/user-attachments/assets/3c4b2d3e-e2b7-427e-ad48-2b8d61d17a93)
 
+
+
+### 📚 MVC Model
+![MVC_DSA drawio](https://github.com/user-attachments/assets/d5d7eaa8-1632-4065-ac55-c60cb0eede8e)
+
